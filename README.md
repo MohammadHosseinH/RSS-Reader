@@ -5,3 +5,4 @@ It has a main menu in terminal contains 4 options:
 3 - remove url, which be used for removing a website from the file.
 4 - Exit.
 This program is online and needs internet connection for some parts.
+It's my training project for learning file in Java.
